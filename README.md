@@ -2,7 +2,7 @@
 
 Submitted by: **Mohamed Farah**
 
-**Wordle** is an app that ... [TODO] 
+**Wordle** is an app that ... [TODO] use guess the word and lets you see if you got it correct
 
 Time spent: **7** hours spent in total
 
